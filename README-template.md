@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [solution URL](https://www.frontendmentor.io/solutions/nft-preview-card-component-with-tailwind-fgqnmgqBH)
+- [live site URL](https://gigagiorgadze.github.io/NFT-preview-card-component-challenge-hub/)
 
 ## My process
 
